@@ -1,0 +1,18 @@
+2023-02-24 12:57:38 Output EQPT10 <ZIP_REMOVE> 
+2023-02-24 12:57:38 Error EQPT10 <ZIP_REMOVE> 'C:\Users\User\Desktop\New' is not recognized as an internal or external command,
+operable program or batch file.
+2023-02-24 12:57:38 Output EQPT10 <ZIPPING> 
+2023-02-24 12:57:38 Error EQPT10 <ZIPPING> 'C:\Users\User\Desktop\New' is not recognized as an internal or external command,
+operable program or batch file.
+2023-02-24 12:57:38 Output EQPT10 <GETTING ZIP> 
+2023-02-24 12:57:38 Error EQPT10 <GETTING ZIP> 'C:\Users\User\Desktop\New' is not recognized as an internal or external command,
+operable program or batch file.
+2023-02-24 12:57:38 Output EQPT10 <ZIP_REMOVE> 
+2023-02-24 12:57:38 Error EQPT10 <ZIP_REMOVE> 'C:\Users\User\Desktop\New' is not recognized as an internal or external command,
+operable program or batch file.
+2023-02-24 12:57:38 Output EQPT10 <ZIPPING> 
+2023-02-24 12:57:38 Error EQPT10 <ZIPPING> 'C:\Users\User\Desktop\New' is not recognized as an internal or external command,
+operable program or batch file.
+2023-02-24 12:57:38 Output EQPT10 <GETTING ZIP> 
+2023-02-24 12:57:38 Error EQPT10 <GETTING ZIP> 'C:\Users\User\Desktop\New' is not recognized as an internal or external command,
+operable program or batch file.
